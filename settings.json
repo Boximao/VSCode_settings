@@ -1,0 +1,88 @@
+{
+  "python.defaultInterpreterPath": "/opt/anaconda3/bin/python",
+  "terminal.integrated.inheritEnv": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.openRepositoryInParentFolders": "never",
+  "editor.fontFamily": "'Fira Code iScript', Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "monospace, 'Courier New', Consolas",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "entity.name.type.class",
+          "entity.other.attribute-name",
+          "keyword",
+          "constant",
+          "storage.modifier",
+          "storage.type.class.js",
+          "string.quoted.single",
+          "string.quoted.double"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unit.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.cursorBlinking": "smooth",
+  "git.confirmSync": false,
+  "debug.onTaskErrors": "showErrors",
+  "git.ignoreMissingGitWarning": true,
+  "background.enabled": true,
+  "editor.dropIntoEditor.preferences": [],
+  "background.useDefault": false,
+  "background.customImages": [
+    "/Users/maxyeh/Desktop/background_photo/IMG_2028.JPG",
+    "/Users/maxyeh/Desktop/background_photo/IMG_1598.JPG",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2087.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2088.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2089.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2090.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2091.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2092.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2093.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2094.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2095.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2096.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2097.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2098.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2099.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2604.jpg",
+    "/Users/maxyeh/Desktop/background_photo/IMG_2605.jpg",
+  ],
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "91%",
+    "height": "40%",
+    "background-size": "contain",
+    "background-repeat": "no-repeat",
+    // "background-position": "center center",
+    "opacity": 0.5
+  },
+  "cmake.configureSettings": {
+
+  },
+  "background.loop": true,
+  "background.interval": 15,
+  "background.random": true
+}
